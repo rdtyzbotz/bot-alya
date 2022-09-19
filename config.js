@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6285815975368']
-global.premium = ['6285815975368']
+global.owner = ['6285730794089']
+global.premium = ['6285730794089']
 global.ownername = 'GilzDesu'
 global.botname = 'RdtyzV-1'
 global.packname = '© by Rdtyz-V1'
